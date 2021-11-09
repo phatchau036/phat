@@ -1,0 +1,16 @@
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\TCP_Remote.exe.config
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\TCP_Remote.exe
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\TCP_Remote.pdb
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.csprojAssemblyReference.cache
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.Properties.Resources.resources
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.csproj.GenerateResource.cache
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.csproj.CoreCompileInputs.cache
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.exe
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.pdb
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\KAutoHelper.dll
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\Emgu.CV.World.dll
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\KAutoHelper.pdb
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\KAutoHelper.dll.config
+D:\c#\TCP\TCP_Remote\TCP_Remote\bin\Debug\Emgu.CV.World.xml
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.csproj.CopyComplete
+D:\c#\TCP\TCP_Remote\TCP_Remote\obj\Debug\TCP_Remote.MainForm.resources
